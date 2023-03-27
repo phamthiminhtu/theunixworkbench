@@ -20,3 +20,6 @@ fi
 done
 
 }
+
+
+guess_ls
